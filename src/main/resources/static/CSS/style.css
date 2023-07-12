@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0px auto;
+}
+
+.container {
+	text-align:center;
+	width: 600px;
+	height: auto;
+}
+
+form{
+	background-color:lightgray;
+	outline: solid black 1px;
+}
+
+.spacer{
+	margin:10px;
+}
+
+.okimuji{
+	padding: 20px;
+	background-color: skyblue;
+}
